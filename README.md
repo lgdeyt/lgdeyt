@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lgdeyt
-- 👀 I’m interested in Pythona and Minecraft
+- 👀 I’m interested in Python and Minecraft
 - 🌱 I’m currently learning Java and Javascript
 - 📫 How to reach me lgamedeyt@gmail.com
 - 😄 Pronouns: he/him
