@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Java and Javascript
 - 📫 How to reach me: lgamedeyt@gmail.com
 - 😄 Pronouns: he/him
-- Have a look at ForgePanel (https://github.com/ForgePanelProject/ForgePanel)
+Have a look at ForgePanel (https://github.com/ForgePanelProject/ForgePanel)
