@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lgdeyt
-- 👀 I’m interested in Python and Minecraft
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Python, Minecraft and game development
+- 🌱 I’m currently learning Unity (And some C#)
 - 📫 How to reach me: lgamedeyt@gmail.com
 - 😄 Pronouns: he/him
 - Have a look at ForgePanel (https://github.com/ForgePanelProject/ForgePanel)
